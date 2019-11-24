@@ -1,0 +1,23 @@
+home,avg_use,inhabitants,pool,street,city,state,country,zipcode,latitude,longitude,inhabitants_tag,type
+id,l/d,int,bool,str,str,str,str,int,deg,deg,int,str
+1,298.47996714579057,2,0,12 Valley View Circle,Milford,Ohio,USA,45150,39.178575,-84.278345,2,work
+2,522.3399425051335,2,0,11 Valley View Circle,Milford,Ohio,USA,45150,39.178944,-84.278470,2,work
+3,609.3965995893224,3,0,13 Valley View Circle,Milford,Ohio,USA,45150,39.179062,-84.278148,3,work
+4,696.4532566735114,2,0,16 Valley View Circle,Milford,Ohio,USA,45150,39.178634,-84.277728,2,home
+5,696.4532566735114,3,0,15 Valley View Circle,Milford,Ohio,USA,45150,39.179113,-84.277855,3,home
+6,497.46661190965096,2,1,21 Valley View Circle,Milford,Ohio,USA,45150,39.179144,-84.277363,2,home
+7,845.6932402464066,4,0,20 Valley View Circle,Milford,Ohio,USA,45150,39.178696,-84.277314,4,home
+8,609.3965995893224,3,1,25 Valley View Circle,Milford,Ohio,USA,45150,39.179136,-84.276949,3,home
+9,360.66329363449694,2,1,29 Valley View Circle,Milford,Ohio,USA,45150,39.179055,-84.276378,2,work
+10,721.3265872689939,3,0,46 Oakcrest Drive,Milford,Ohio,USA,45150,39.178972,-84.275586,3,work
+11,236.2966406570842,2,0,40 Oakcrest Drive,Milford,Ohio,USA,45150,39.178704,-84.276008,2,work
+12,771.073248459959,2,0,34 Oakcrest Drive,Milford,Ohio,USA,45150,39.178425,-84.276213,2,home
+13,435.28328542094465,3,0,37 Oakcrest Drive,Milford,Ohio,USA,45150,39.178631,-84.276743,3,home
+14,310.9166324435318,1,1,32 Oakcrest Drive,Milford,Ohio,USA,45150,39.178253,-84.276455,1,work
+15,584.5232689938399,2,0,35 Oakcrest Drive,Milford,Ohio,USA,45150,39.178364,-84.277067,2,home
+16,397.97328952772074,2,0,26 Oakcrest Drive,Milford,Ohio,USA,45150,39.177941,-84.276697,2,home
+17,708.8899219712525,2,0,22 Oakcrest Drive,Milford,Ohio,USA,45150,39.177667,-84.276985,2,work
+18,NaN,4,0,1 Promont Court,Milford,Ohio,USA,45150,39.177297,-84.277442,4,home
+19,NaN,2,0,3 Promont Court,Milford,Ohio,USA,45150,39.176977,-84.277854,2,work
+20,870.5665708418893,4,0,19 Oakcrest Drive,Milford,Ohio,USA,45150,39.177981,-84.277442,4,home
+21,982.4965585215606,4,0,17 Oakcrest Drive,Milford,Ohio,USA,45150,39.178129,-84.277972,4,home

@@ -20,7 +20,7 @@ The following additional Python packages:
 
 
 ### Authors
-Code: [David B. Steffelbauer](https://https://steffelbauer.github.io//) - Water Management Department | TU Delft - Faculty of Civil Engineering and Geosciences
+Code: [David B. Steffelbauer](https://steffelbauer.github.io/) - Water Management Department | TU Delft - Faculty of Civil Engineering and Geosciences
 
 Paper: Steffelbauer, D.B., Blokker, E.J.M., Buchberger, S.G., Knobbe, A., & Abraham E. 
 
